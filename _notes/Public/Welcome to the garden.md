@@ -8,4 +8,5 @@ This is a sample atomic note. The file location is `_notes/Public`, and it appea
 
 While all files inside this folder get rendered and can be linked, only those notes with `notetype: feed` will be listed in the feed. For example, click on this [[Hidden Note]]!
 
+[[Aktuelles]]
 Also, backlinks (pages with a link to this page) are listed down. Check that one to see how markdown styles get rendered in this theme.

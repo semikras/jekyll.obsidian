@@ -11,3 +11,5 @@ date : 14-03-2022
 **Jede Impfung zählt!**
 Dies bedeutet, dass es grundsätzlich keine unzulässig großen Abstände zwischen den Impfungen gibt. In der Regel muss auch bei einer für viele Jahre unterbrochenen Grundimmunisierung – z. B. gegen Diphtherie, FSME, Tetanus, Poliomyelitis, Hepatitis B – die Impfserie nicht neu begonnen werden. Auch eine nicht rechtzeitig gegebene Auffrischimpfung kann zu einem späteren Zeitpunkt nachgeholt werden.
 
+[[Hidden Note]]
+
