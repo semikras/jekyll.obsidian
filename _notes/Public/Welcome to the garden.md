@@ -10,3 +10,6 @@ While all files inside this folder get rendered and can be linked, only those no
 
 [[Aktuelles]]
 Also, backlinks (pages with a link to this page) are listed down. Check that one to see how markdown styles get rendered in this theme.
+
+Dies ist ein Test!
+[[Markdown Rendered]]  
